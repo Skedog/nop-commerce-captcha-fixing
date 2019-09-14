@@ -1,5 +1,6 @@
 # Fixes for NOPCommerce Captcha
-I spent entirely too long trying to figure out how to fix this problem. Thanks to [this post](https://www.nopcommerce.com/boards/t/33692/support-for-new-version-recaptcha-v2.aspx#139455) I was able to republish a version of NOP Commerce that had the captcha fixed.
+I spent entirely too long trying to figure out how to fix this problem. Thanks to [this post](https://www.nopcommerce.com/boards/t/33692/support-for-new-version-recaptcha-v2.aspx#139455) I was able to republish a version of NOP Commerce that had the captcha fixed. These steps/fix worked for ***me*** - but of course that doesn't mean it will work for you. Please **back up your files** before replacing/doing anything.
+
 ### Quick Fix
 - Download the two files
   - Nop.Web.Framework.dll
